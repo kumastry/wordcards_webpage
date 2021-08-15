@@ -61,7 +61,7 @@ const Main = () => {
                 <div className="column">
                     <a href="https://bulma.io/documentation/elements/button/" target="_blank">
                         <div className = "button is-large hero is-link">
-                            <p className="title is-white">LaTeX</p>
+                            <p className="title is-white">企画書</p>
                         </div>    
                     </a>
                 </div>  
