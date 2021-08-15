@@ -51,7 +51,7 @@ const Main = () => {
                 </div>  
 
                 <div className="column">
-                    <a href="https://bulma.io/documentation/elements/button/" target="_blank">
+                    <a href="https://drive.google.com/file/d/14x91RDptB2o3ifYNOuJYVBiu5ks7XjeC/view" target="_blank">
                         <div className = "button is-large hero is-link">
                             <p className="title is-white">ポスター</p>
                         </div>    
@@ -59,7 +59,7 @@ const Main = () => {
                 </div>  
          
                 <div className="column">
-                    <a href="https://bulma.io/documentation/elements/button/" target="_blank">
+                    <a href="https://drive.google.com/file/d/1x44Mvxm6P1Pd3zSJtMVHf3wk7wrGZILk/view" target="_blank">
                         <div className = "button is-large hero is-link">
                             <p className="title is-white">企画書</p>
                         </div>    
