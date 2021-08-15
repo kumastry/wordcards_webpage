@@ -1,11 +1,12 @@
 
 const Footer = () => {
     return(
-        <footer class="footer">
-            <div class="content has-text-centered">
-                <p>&copy; 2021 くまる</p>
-            </div>
-        </footer>
+        <footer className="footer">
+        <div className="content has-text-centered">
+            <hr></hr>
+                <p>&copy;2021 くまる</p>
+        </div>
+    </footer>
     );
 }
 

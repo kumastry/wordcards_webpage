@@ -1,64 +1,72 @@
 
 const Main = () => {
-    const urls = [
 
-    ];
     return(
-    <section className = "section">    
-    <div className = "container">   
-        <div className="columns is-vcentered">
-            <div className="column is-2 ">
-                <div className = "card hero is-link">
-                <header class="card-header is-white">
-                    <p class="card-header-title is-white">
-                        <p className="title is-white"><a href="https://bulma.io/documentation/elements/button/">作品</a></p>
-                    </p>
-                </header>        
-            </div>    
-        </div>  
+    <section className = "section">
 
-           <div className="column is-2 ">
-                <div className = "card hero is-link">
-                <header class="card-header is-white">
-                    <p class="card-header-title is-white">
-                        <p className="title is-white">github</p>
-                    </p>
-                </header>        
-                </div>    
-           </div>  
+<article class="message is-link">
+  <div class="message-header">
+    <p>英単語を楽しんで覚えよう</p>
+   
+  </div>
+  <div class="message-body">
+    このアプリでできること <br/>
+    <ul>
+        <li>・単語帳の作成や英単語の追加</li>
+        <li>・英単語を追加するときの翻訳機能</li>
+        <li>・単語帳をスライドして鑑賞</li>
+        <li>・作成した単語帳に対して、四択や記述式でクイズ</li>
+        <li>・クイズを解き続けることで実績を解除</li>
+    </ul>
+  </div>
+</article>
 
-           <div className="column is-3 ">
-                <div className = "card hero is-link">
-                <header class="card-header is-white">
-                    <p class="card-header-title is-white">
-                        <p className="title is-white">作品動画</p>
-                    </p>
-                </header>        
-                </div>    
-           </div>  
 
-           <div className="column is-3 ">
-                <div className = "card hero is-link">
-                <header class="card-header is-white">
-                    <p class="card-header-title is-white">
-                        <p className="title is-white">ポスター</p>
-                    </p>
-                </header>        
-                </div>    
-           </div>  
-        
-           <div className="column is-2 ">
-                <div className = "card hero is-link">
-                <header class="card-header is-white">
-                    <p class="card-header-title is-white">
-                        <p className="title is-white">tex</p>
-                    </p>
-                </header>        
-                </div>    
-           </div>  
+        <p className = "title  is-italic  is-family-primary">LINKS</p>
+        <div className = "container">
+            <div className="columns is-vcentered">
+
+                <div className="column">
+                    <a href="https://bulma.io/documentation/elements/button/">
+                        <div className = "button is-large hero is-link">
+                            <p className="title is-white">作品</p>
+                        </div>    
+                    </a>
+                </div>  
+
+                <div className="column">
+                    <a href="https://bulma.io/documentation/elements/button/">
+                        <div className = "button is-large hero is-link">
+                            <p className="title is-white">Github</p>
+                        </div>    
+                    </a>
+                </div>   
+
+                <div className="column  ">
+                    <a href="https://bulma.io/documentation/elements/button/">
+                        <div className = "button is-large hero is-link">
+                            <p className="title is-white">作品動画</p>
+                        </div>    
+                    </a>
+                </div>  
+
+                <div className="column ">
+                    <a href="https://bulma.io/documentation/elements/button/">
+                        <div className = "button is-large hero is-link">
+                            <p className="title is-white">ポスター</p>
+                        </div>    
+                    </a>
+                </div>  
+         
+                <div className="column ">
+                    <a href="https://bulma.io/documentation/elements/button/">
+                        <div className = "button is-large hero is-link">
+                            <p className="title is-white">LaTeX</p>
+                        </div>    
+                    </a>
+                </div>  
 
             </div>
-
         </div> 
      </section>
     );

@@ -1,7 +1,7 @@
 
 const Header = () => {
     return(
-        <section class="hero is-link">
+        <section class="hero is-link is-bold">
             <div class="hero-body">
                 <p class="title">
                     WordCards
