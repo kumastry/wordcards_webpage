@@ -30,11 +30,11 @@ const Main = () => {
                 このアプリはionicで作成されていて、PWAによってネイティブアプリのように操作できます<br/><br/>
 
                 iosの場合 <br/>
-                楽して覚える単語帳のページに移動 →「共有」アイコンをタップ → 「ホーム画面に追加」をタップ <br/> <br/>
+                楽しんで覚える単語帳のページに移動 →「共有」アイコンをタップ → 「ホーム画面に追加」をタップ <br/> <br/>
             
             
                 Androidの場合 <br/>
-                楽して覚える単語帳のページに移動 →右上の「メニュー」アイコンをタップ → 「ホーム画面に追加」をタップ <br/> <br/>
+                楽しんで覚える単語帳のページに移動 →右上の「メニュー」アイコンをタップ → 「ホーム画面に追加」をタップ <br/> <br/>
             
                 詳しくは<a href="https://www.ipodwave.com/iphone/howto/website_home.html" target="_blank">iosはこちら</a>，<a href="https://color-variations.com/android-siteicon" target="_blank">Androidはこちら</a>
             </div>
