@@ -1,7 +1,7 @@
 
 const Header = () => {
     return(
-        <section class="hero is-link is-bold">
+        <section class="hero is-link ">
             <div class="hero-body">
                 <p class="title">
                     WordCards
@@ -10,6 +10,8 @@ const Header = () => {
                 <p>
                     楽しんで覚える単語帳
                 </p>
+
+
             </div>
         </section>
     );

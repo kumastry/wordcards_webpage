@@ -27,7 +27,7 @@ const Main = () => {
             <div className="columns is-vcentered">
 
                 <div className="column">
-                    <a href="https://bulma.io/documentation/elements/button/">
+                    <a href="https://rakutang.netlify.app/" target="_blank">
                         <div className = "button is-large hero is-link">
                             <p className="title is-white">作品</p>
                         </div>    
@@ -35,31 +35,31 @@ const Main = () => {
                 </div>  
 
                 <div className="column">
-                    <a href="https://bulma.io/documentation/elements/button/">
+                    <a href="https://github.com/yu2799/vbfl" target="_blank">
                         <div className = "button is-large hero is-link">
                             <p className="title is-white">Github</p>
                         </div>    
                     </a>
                 </div>   
 
-                <div className="column  ">
-                    <a href="https://bulma.io/documentation/elements/button/">
+                <div className="column">
+                    <a href="https://bulma.io/documentation/elements/button/" target="_blank">
                         <div className = "button is-large hero is-link">
                             <p className="title is-white">作品動画</p>
                         </div>    
                     </a>
                 </div>  
 
-                <div className="column ">
-                    <a href="https://bulma.io/documentation/elements/button/">
+                <div className="column">
+                    <a href="https://bulma.io/documentation/elements/button/" target="_blank">
                         <div className = "button is-large hero is-link">
                             <p className="title is-white">ポスター</p>
                         </div>    
                     </a>
                 </div>  
          
-                <div className="column ">
-                    <a href="https://bulma.io/documentation/elements/button/">
+                <div className="column">
+                    <a href="https://bulma.io/documentation/elements/button/" target="_blank">
                         <div className = "button is-large hero is-link">
                             <p className="title is-white">LaTeX</p>
                         </div>    
