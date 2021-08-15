@@ -21,6 +21,21 @@ const Main = () => {
   </div>
 </article>
 
+<article class="message is-link">
+  <div class="message-header">
+    <p>スマホアプリとして起動してみよう</p>
+
+  </div>
+  <div class="message-body">
+      iosの場合 <br/>
+      楽して覚える単語帳のページに移動 →「共有」アイコンをタップ → 「ホーム画面に追加」をタップ <br/> <br/>
+
+      Androidの場合 <br/>
+      楽して覚える単語帳のページに移動 →右上の「メニューアイコン」をタップ → 「ホーム画面に追加」をタップ <br/> <br/>
+
+      詳しくは<a href="https://www.ipodwave.com/iphone/howto/website_home.html" target="_blank">iosはこちら</a>，<a href="https://color-variations.com/android-siteicon" target="_blank">Androidはこちら</a>
+  </div>
+</article>
 
         <p className = "title  is-italic  is-family-primary">LINKS</p>
         <div className = "container">
