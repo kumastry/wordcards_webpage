@@ -61,7 +61,7 @@ const Main = () => {
                 </div>   
 
                 <div className="column">
-                    <a href="https://bulma.io/documentation/elements/button/" target="_blank">
+                    <a href="https://drive.google.com/file/d/1LMPlmoPduMHUSWVuqCV45xsD2uRtzkSj/view" target="_blank">
                         <div className = "button is-large hero is-link">
                             <p className="title is-white">作品動画</p>
                         </div>    
